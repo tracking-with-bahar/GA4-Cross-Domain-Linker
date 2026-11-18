@@ -46,7 +46,3 @@ When no domain matches:
 ```javascript
 undefined
 ```
-
-## License
-
-MIT
