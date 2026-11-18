@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/tracking-specialist/"
+documentation: "https://github.com/tracking-with-bahar/GA4-Cross-Domain-Linker"
+versions:
+  - sha: 3bb9610e289b62c45f09a3a799ca051358bc8114
+    changeNotes: Initial release.
